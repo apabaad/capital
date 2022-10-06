@@ -1,0 +1,64 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "3866dc22-54ca-4d8e-8f3a-4c8f505c4ac2": {
+      "type": "download",
+      "blocks": {
+        "661f7361-8e13-4154-8e37-ca047e7bb6b3": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "align_text": "left"
+          }
+        },
+        "5a25a4ec-3e7f-4f94-a6b6-7f00a3e7c806": {
+          "type": "download",
+          "settings": {
+            "title": "52\" Cart Model Open Grill BBQ (ACG52RFS.1 N\/L)",
+            "download_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/ACG52RFS.1-spec-sheet.pdf?v=8894302174361608926"
+          }
+        },
+        "42047dac-5087-4ac3-999b-01f5fab8c6cf": {
+          "type": "download",
+          "settings": {
+            "title": "52” Built In Barbecue with Open Grill (ACG52RBI.1 N\/L)",
+            "download_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/ACG52RBI.1-spec-sheet.pdf?v=13892221294075103951"
+          }
+        },
+        "f120be1f-f807-4978-bd62-84ecaae9e3e8": {
+          "type": "download",
+          "settings": {
+            "title": "40” Cart Model Open Grill BBQ (ACG40RFS.1 N\/L)",
+            "download_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/ACG40RFS.1-NL-specs-sheet.pdf?v=277428016915413490"
+          }
+        },
+        "c248fe37-7aa1-4cb5-88bd-983436c920d9": {
+          "type": "download",
+          "settings": {
+            "title": "40” Built In Barbecue with Open Grill (ACG40RBI.1 N\/L)",
+            "download_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-BBQ-manual-online_1.pdf?v=7611748365407585298"
+          }
+        }
+      },
+      "block_order": [
+        "661f7361-8e13-4154-8e37-ca047e7bb6b3",
+        "5a25a4ec-3e7f-4f94-a6b6-7f00a3e7c806",
+        "42047dac-5087-4ac3-999b-01f5fab8c6cf",
+        "f120be1f-f807-4978-bd62-84ecaae9e3e8",
+        "c248fe37-7aa1-4cb5-88bd-983436c920d9"
+      ],
+      "settings": {
+        "title": "SPECIFICATION SHEETS"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3866dc22-54ca-4d8e-8f3a-4c8f505c4ac2"
+  ]
+}

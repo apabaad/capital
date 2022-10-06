@@ -1,0 +1,87 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1664773073b80f2680": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "16647750459a8ed2a2": {
+      "type": "text-with-icons",
+      "blocks": {
+        "16647750454b1e8f66-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "phone",
+            "title": "Customer Service Line",
+            "text": "<p><a href=\"tel:  1300762219\" target=\"_blank\" title=\"tel:  1300762219\">1300 762 21<\/a>9 \/ <a href=\"tel:1300 815 589\" target=\"_blank\" title=\"tel:1300815589\">1300 815 589<\/a><\/p><p>(03) 9768 0838 (Fax)<br\/>arisit@arisit.com (General Enquiry)<br\/>arisit.parts@arisit.com (Spare Parts Enquiry)<\/p>"
+          }
+        },
+        "16647750454b1e8f66-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Opening hours",
+            "text": "<p>Monday to Friday : 8:30am to 5:00pm<br\/>Saturday, Sunday : Closed<br\/>Public Holiday : Closed<\/p>"
+          }
+        },
+        "16647750454b1e8f66-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "Head Office",
+            "text": "<p>Arisit Pty. Ltd.<br\/>40-50 Mark Anthony Drive<br\/>Dandenong South, VIC 3175<br\/>Email: arisit@arisit.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16647750454b1e8f66-0",
+        "16647750454b1e8f66-1",
+        "16647750454b1e8f66-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#ffffff",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "1664774930fad74ade": {
+      "type": "apps",
+      "blocks": {
+        "d4640d62-5f4e-46ea-acac-0ba542d292b9": {
+          "type": "shopify:\/\/apps\/powerful-contact-form-builder\/blocks\/app-block\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "{formbuilder:OTMyOTc=}"
+          }
+        }
+      },
+      "block_order": [
+        "d4640d62-5f4e-46ea-acac-0ba542d292b9"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1664773073b80f2680",
+    "16647750459a8ed2a2",
+    "1664774930fad74ade"
+  ]
+}

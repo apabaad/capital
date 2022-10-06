@@ -1,0 +1,618 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1664769306986769c5": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "16647693062510a1d4-0": {
+          "type": "heading",
+          "settings": {
+            "title": "FEATURES"
+          }
+        }
+      },
+      "block_order": [
+        "16647693062510a1d4-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1664769348aa48660f": {
+      "type": "custom-content",
+      "blocks": {
+        "16647693477232e903-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#000000",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "30 Mj\/hr W Shaped Burners",
+            "subheading": "",
+            "text": "<p>100% Stainless Steel, our exclusive W shape burner is engineered to produce a larger, more powerful heating area while providing consistent heat, efficiently and precisely, throughout the cooking process. The unique heat dispersion plates located over each of these burners ensures a uniform transference of heat to the open griddle sections.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-white",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "16647693477232e903-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "bfdffa5e-dece-4526-8320-d10284bd0509": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_3.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "e7064e3a-5844-4124-aeb4-ffe79d79a8a2": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#000000",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "30Mj\/hr SEAR ZONE infrared Burner",
+            "subheading": "",
+            "text": "<p>Capital’s Infrared-Zone Cooking has been engineered for producing that perfectly seared steak. The extremely high surface temperatures (1,000 degrees) of this burner ensures that the juices are locked in every time you cook your favourite cut of meat. The exclusive internal section dividers enable you to cook efficiently at different temperatures without cross-temperature transference (eg. slow cooking over one burner and fast cooking at high temp over another).<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "c86fac42-8c1c-4907-bc66-bc6fee3d8f93": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#000000",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Flush Mounted Rotisserie Burner",
+            "subheading": "",
+            "text": "<p>Create mouth-watering, restaurant worthy rotisserie meals in your own backyard. Included is a pair of rotisserie forks, allowing for easy attachment of several different cuts of meat to the rotisserie rod. Get juicer, perfectly browned roasted meats that are undeniably better tasting with the flush mounted Infrared Rotisserie. The 240V rotisserie motor has been designed for the serious cook and, seamlessly integrated, holds up to 22Kg of succulent meats as well as being fitted with flame failure safety for that extra piece of mind.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "dfe1f5af-12b5-4ec9-a856-451bede135fc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_4.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "d80780d4-7713-4259-9f0a-19c112672b0f": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "156d4087-0b57-4d42-8c97-6ad97a1bdc2f": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#000000",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Capital’s Seamless Construction",
+            "subheading": "",
+            "text": "<p>High quality 18\/10 304 grade Stainless steel, hand crafted<br\/>seamless construction – is a standard on every Capital product,<br\/>meaning no sharp corners.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "3760167c-b8cf-4ba8-85fe-8df5c374b7ba": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#000000",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Double layered Stainless Steel Hood",
+            "subheading": "",
+            "text": "<p>The grill hoods use a double layer of high quality stainless steel that reduces heat loss and maintains safe external hood temperature at all times.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "4e6401fe-8c99-4b67-94e0-f26dc77b2843": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "16647693477232e903-0",
+        "16647693477232e903-1",
+        "bfdffa5e-dece-4526-8320-d10284bd0509",
+        "e7064e3a-5844-4124-aeb4-ffe79d79a8a2",
+        "c86fac42-8c1c-4907-bc66-bc6fee3d8f93",
+        "dfe1f5af-12b5-4ec9-a856-451bede135fc",
+        "d80780d4-7713-4259-9f0a-19c112672b0f",
+        "156d4087-0b57-4d42-8c97-6ad97a1bdc2f",
+        "3760167c-b8cf-4ba8-85fe-8df5c374b7ba",
+        "4e6401fe-8c99-4b67-94e0-f26dc77b2843"
+      ],
+      "settings": {
+        "heading": "OUTDOOR PRODUCTS FEATURES",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "#000000",
+        "gap": 90,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    },
+    "1664769310f130fc81": {
+      "type": "custom-content",
+      "disabled": true,
+      "blocks": {
+        "1664769310d66da079-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#1c1d1d",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Hot Surface Ignition",
+            "subheading": "",
+            "text": "<p>The precision series uses a system called ‘Hot Surface Ignition’. The<br\/>ignition is used to monitor the flame via an electronic thermostat,<br\/>such that when the appliance reaches the set temperature the burner<br\/>is signalled to turn off. This system is very economical and accurate.<br\/>Typically, during a two hour cooking program the burner is only<br\/>consuming gas for approximately 20-25 mins.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-white",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "1664769310d66da079-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "074abf2c-0d90-4d92-84f7-838f24aae122": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "bbed32db-a9d5-488d-8dec-f49865776a67": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#1c1d1d",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Flex-Roll Oven Racks",
+            "subheading": "",
+            "text": "<p>Effortlessly check and access your meals.<br\/>Patent pending chrome-plated steelFlex Roll™ Oven Racks, provide<br\/>the smoothest, most effortless range of motion in the industry. The<br\/>racks are easily removed for the Automatic Cleaning process.<br\/>Three oven racks with four rack positions, and a Roasting pan<br\/>come standard<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "352f5266-b3c1-4974-aabe-3b5484c1e7d8": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#1c1d1d",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Cool touch Capital oven door with large viewing window",
+            "subheading": "",
+            "text": "<p>An extra-large viewing window allows you to easily check on the progress of your cooking. The glass is designed to be cool to the touch and is seamlessly integrated to keep cleaning spills easily.<br\/>Sturdy, heavy-duty and effortless to position with a 30mm pro-style handle.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "59106124-71cf-4da0-96aa-213eca059c07": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "47aa1c0e-22e0-4ecf-ad0e-5c4c0e7de1d5": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "2ea2ec8d-ef0c-4766-9dc7-682868d10fe7": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#1c1d1d",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "20Mj\/hr Power-Flo™ Burners",
+            "subheading": "",
+            "text": "<p>True simmering re-defined. The most advanced custom designed burners in the industry, from “true simmering” to a powerful 20Mj\/hr.<br\/>The burners are capable of a low 1Mj\/hr and have Auto re-ignition<br\/>feature meaning if the flame is blown out, the unit will automatically<br\/>re-ignite the burner.<br\/>The burner is designed to distribute heat evenly, reducing hotspots.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "435adb74-01d9-435e-8bc7-701471297bbb": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#1c1d1d",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Moto-Rotis™ Rotisserie System",
+            "subheading": "",
+            "text": "<p>Outdoor BBQ technology comes indoors.<br\/>The industry’s first motorized rotisserie system allows you to roast<br\/>mouth-watering, evenly cooked meals at up to 290 degs C. Rotisserie spit rod and prongs are made of heavy-duty stainless steel and are built to last and easy to clean.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "69a09e8a-2c5a-41b3-9d02-f779d21744f2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "bb7d5715-2325-44e2-9869-796acd26e03c": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "a81cca37-9e25-4ace-8150-6b8060a14d4f": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#1c1d1d",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "19 Mj h\/r Infra-Q™ BBQ-Grill and Thermo-Griddle™ Plate",
+            "subheading": "",
+            "text": "<p>With these optional extras you can now grill & sear conveniently without leaving your kitchen.<br\/>The Infra-Q™ ceramic tile burner can produce temperatures in excess of 500 degrees for quick efficient searing comparable to traditional outdoor grills. Exclusive two-side grates reduce flare-ups while channelling grease away from the burner.<\/p><p>The 19Mj hr Thermo-Griddle™ Teppanyaki Plate is a versatile cooking surface that makes your cooking dynamic and enjoyable. The Thermostatically controlled plate maintains exact temperature, giving you true set and forget simmer control. The Teppanyaki plate has 7 heat settings for every type of cooking. <\/p><p>The plate is made of restaurant quality 10mm, 304 grade stainless steel, guaranteed to last a lifetime.<\/p><p>Dishwasher safe stainless steel drip pans make cleaning easy.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "b22fa998-fd6e-4270-a1d6-d2665e37571b": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#1c1d1d",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Pyrolytic Cleaning system",
+            "subheading": "",
+            "text": "<p>31Mj\/hr Self-Clean gas-fired oven. Green and clean.<br\/>During this unique cleaning process the oven door is automatically<br\/>locked. The interior is then super-heated to 500 degrees C,<br\/>turning food spoils into ash. This ash is wiped away with a damp<br\/>sponge making cleaning a breeze. Natural gas and LPG makes the<br\/>oven environmentally friendly and cost-effective.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "38833683-792b-4779-aa75-1712a77019e5": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "cdbb601b-b51b-4986-9136-fdcfb57cc2ce": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "33d15e7d-fc97-4fd0-8908-665661815653": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#1c1d1d",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Infared Grill",
+            "subheading": "",
+            "text": "<p>Capital ovens have a high temperature infrared grill behind clear<br\/>ceramic glass, for even heat distribution while eliminating flare<br\/>ups during the grilling process.<br\/>The infrared Grill produces precise optimum temperatures in record<br\/>speed making it the fastest infrared grill on the market.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "621b2307-3d09-4e09-978f-d69dfa29df78": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#1c1d1d",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Extra Large capacity interior",
+            "subheading": "",
+            "text": "<p>Capital has made room for all your cooking needs with the spacious commercial size oven with a140Ltr capacity. Precision series ranges accommodate full size (46x68cm) commercial baking trays.<\/p><p>Our oven accommodates every baking project, large and small, casual and serious. (Available on 36”, 48” and 60” Precision Series Ranges.)<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "9a494937-e534-4e40-a9d0-a9b5a9c5ce1d": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "b43c90b4-4983-4d52-9fb1-4c7062e9c850": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "b81d8ed6-7355-423c-a6a3-0afc606beedf": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#1c1d1d",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Stay-Cool™ Metal Knobs",
+            "subheading": "",
+            "text": "<p>Always cool to the touch. Made of restaurant grade, die cast chrome plated metal with cool grip plastic inserts. Featuring bold graphics for easy-to-read settings.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664769310d66da079-0",
+        "1664769310d66da079-1",
+        "074abf2c-0d90-4d92-84f7-838f24aae122",
+        "bbed32db-a9d5-488d-8dec-f49865776a67",
+        "352f5266-b3c1-4974-aabe-3b5484c1e7d8",
+        "59106124-71cf-4da0-96aa-213eca059c07",
+        "47aa1c0e-22e0-4ecf-ad0e-5c4c0e7de1d5",
+        "2ea2ec8d-ef0c-4766-9dc7-682868d10fe7",
+        "435adb74-01d9-435e-8bc7-701471297bbb",
+        "69a09e8a-2c5a-41b3-9d02-f779d21744f2",
+        "bb7d5715-2325-44e2-9869-796acd26e03c",
+        "a81cca37-9e25-4ace-8150-6b8060a14d4f",
+        "b22fa998-fd6e-4270-a1d6-d2665e37571b",
+        "38833683-792b-4779-aa75-1712a77019e5",
+        "cdbb601b-b51b-4986-9136-fdcfb57cc2ce",
+        "33d15e7d-fc97-4fd0-8908-665661815653",
+        "621b2307-3d09-4e09-978f-d69dfa29df78",
+        "9a494937-e534-4e40-a9d0-a9b5a9c5ce1d",
+        "b43c90b4-4983-4d52-9fb1-4c7062e9c850",
+        "b81d8ed6-7355-423c-a6a3-0afc606beedf"
+      ],
+      "settings": {
+        "heading": "INDOOR COLLECTION FEATURES",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "#1c1d1d",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1664769306986769c5",
+    "1664769348aa48660f",
+    "1664769310f130fc81"
+  ]
+}

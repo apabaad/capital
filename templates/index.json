@@ -1,0 +1,370 @@
+{
+  "sections": {
+    "166442577164f7a6ee": {
+      "type": "slideshow",
+      "blocks": {
+        "1664425771749dfdc8-0": {
+          "type": "image",
+          "settings": {
+            "title": "The Art of Precision",
+            "title_size": 49,
+            "subheading": "Handcrafted with precision in California, USA",
+            "link": "",
+            "link_text": "Explore Now",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/home_slide02.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "80% 50%"
+          }
+        }
+      },
+      "block_order": [
+        "1664425771749dfdc8-0"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "785f643a-2de7-40f6-9cbb-72de74320fc2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Products",
+        "home_featured_products": "precision-series-grills",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1664419986fa6aa56c": {
+      "type": "custom-content",
+      "blocks": {
+        "16644199864edb642b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "16644199864edb642b-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#ffffff",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "PRODUCT RANGE",
+            "subheading": "",
+            "text": "<p>Lorem ipsum dolor sit amet. Sit quia delectus hic explicabo omnis et optio molestiae est tempora labore et distinctio culpa ad molestiae aspernatur non assumenda cupiditate.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "Explore Now",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "c983e75f-c319-43e9-a086-ee47820538a7": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#ffffff",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "THE CAPITAL DIFFERENCE",
+            "subheading": "",
+            "text": "<p>Explore the prominent features of Capital that make us different.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "Explore Now",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "57aed893-5a56-4c0d-a5a0-dfbebfce1ef8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Built-In-BBQ-Capital-Brand.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "46c00129-c5ba-4e17-9127-3a733dc8a10e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a-rusty-shipwreck-sits-on-the-shore.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "44b4c3e6-1483-493a-bf96-7a881f44c5c8": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#ffffff",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "PROUD HISTORY",
+            "subheading": "",
+            "text": "<p>Lorem ipsum dolor sit amet. Sit quia delectus hic explicabo omnis et optio molestiae est tempora labore et distinctio culpa ad molestiae aspernatur non assumenda cupiditate.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "Explore Now",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644199864edb642b-1",
+        "16644199864edb642b-0",
+        "c983e75f-c319-43e9-a086-ee47820538a7",
+        "57aed893-5a56-4c0d-a5a0-dfbebfce1ef8",
+        "46c00129-c5ba-4e17-9127-3a733dc8a10e",
+        "44b4c3e6-1483-493a-bf96-7a881f44c5c8"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    },
+    "featured-collection-switcher": {
+      "type": "featured-collection-switcher",
+      "disabled": true,
+      "settings": {
+        "title": "Collections",
+        "collection1": "precision-series-grills",
+        "collection2": "progrill-series",
+        "per_row": 5,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1664426551d07f7b80": {
+      "type": "logo-list",
+      "blocks": {
+        "16644265517db15942-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Winning-Appliances.png",
+            "link": ""
+          }
+        },
+        "16644265517db15942-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8appliances-steel.jpg",
+            "link": ""
+          }
+        },
+        "16644265517db15942-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bas-logo-steel.png",
+            "link": ""
+          }
+        },
+        "fcf5c3bf-fa23-4b93-b48d-6dde88f5ff96": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LM-Goldstar-1.png",
+            "link": ""
+          }
+        },
+        "da1a97c5-fd83-434e-8b29-4414e5b10402": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newtons-1.png",
+            "link": ""
+          }
+        },
+        "f391427d-6777-4460-91c6-9f3b4ff21a7c": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Whitfords.png",
+            "link": ""
+          }
+        },
+        "c0eff0d1-00eb-470e-8074-5432c0d8c720": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spartans-logo.jpg",
+            "link": ""
+          }
+        },
+        "302273a1-72db-41ca-9e94-ba442c387a82": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/elite-appliances.png",
+            "link": ""
+          }
+        },
+        "9e1a7f3f-813c-4025-815c-8382861b9438": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eandstrading.png",
+            "link": ""
+          }
+        },
+        "2e98409b-f9ba-428d-bb08-0e75db299245": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/statusplus.png",
+            "link": ""
+          }
+        },
+        "92dab763-5466-4a70-bf78-4d9b7a12bc08": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hart-and-co-web.jpg",
+            "link": ""
+          }
+        },
+        "5a6d37a1-54d6-47e0-9544-016e594e5761": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stocks-designer-appliances-steel.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644265517db15942-1",
+        "16644265517db15942-2",
+        "16644265517db15942-3",
+        "fcf5c3bf-fa23-4b93-b48d-6dde88f5ff96",
+        "da1a97c5-fd83-434e-8b29-4414e5b10402",
+        "f391427d-6777-4460-91c6-9f3b4ff21a7c",
+        "c0eff0d1-00eb-470e-8074-5432c0d8c720",
+        "302273a1-72db-41ca-9e94-ba442c387a82",
+        "9e1a7f3f-813c-4025-815c-8382861b9438",
+        "2e98409b-f9ba-428d-bb08-0e75db299245",
+        "92dab763-5466-4a70-bf78-4d9b7a12bc08",
+        "5a6d37a1-54d6-47e0-9544-016e594e5761"
+      ],
+      "settings": {
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 50,
+        "padding_bottom": 70,
+        "section_bg": "#111111",
+        "title": "OUR PARTNERS",
+        "heading_color": "#ffffff",
+        "logo_opacity": 100,
+        "enable_slider": false,
+        "enable_autoplay": false,
+        "column_count": 4,
+        "mob_column_count": 3,
+        "divider": false
+      }
+    },
+    "e6c6f76f-72ff-4dd8-90f0-7bec8679f24c": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "template--14388122615937__e6c6f76f-72ff-4dd8-90f0-7bec8679f24c-1664944304aedd203e-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14388122615937__e6c6f76f-72ff-4dd8-90f0-7bec8679f24c-1664944304aedd203e-1": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "template--14388122615937__e6c6f76f-72ff-4dd8-90f0-7bec8679f24c-1664944304aedd203e-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "template--14388122615937__e6c6f76f-72ff-4dd8-90f0-7bec8679f24c-1664944304aedd203e-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "template--14388122615937__e6c6f76f-72ff-4dd8-90f0-7bec8679f24c-1664944304aedd203e-4": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14388122615937__e6c6f76f-72ff-4dd8-90f0-7bec8679f24c-1664944304aedd203e-0",
+        "template--14388122615937__e6c6f76f-72ff-4dd8-90f0-7bec8679f24c-1664944304aedd203e-1",
+        "template--14388122615937__e6c6f76f-72ff-4dd8-90f0-7bec8679f24c-1664944304aedd203e-2",
+        "template--14388122615937__e6c6f76f-72ff-4dd8-90f0-7bec8679f24c-1664944304aedd203e-3",
+        "template--14388122615937__e6c6f76f-72ff-4dd8-90f0-7bec8679f24c-1664944304aedd203e-4"
+      ],
+      "settings": {
+        "featured_product": "",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    }
+  },
+  "order": [
+    "166442577164f7a6ee",
+    "785f643a-2de7-40f6-9cbb-72de74320fc2",
+    "1664419986fa6aa56c",
+    "featured-collection-switcher",
+    "1664426551d07f7b80",
+    "e6c6f76f-72ff-4dd8-90f0-7bec8679f24c"
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1664772718904db978": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1664772718fccfd210-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "1664772718fccfd210-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664772718fccfd210-0",
+        "1664772718fccfd210-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "166477189208f69b1f": {
+      "type": "custom-content",
+      "blocks": {
+        "1664771892ccb74947-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 0,
+            "text_padding_bottom": 0,
+            "title": "BUILT ON INNOVATION SINCE 2001",
+            "subheading": "",
+            "text": "<p>We are committed to producing simply the best appliances in the industry. Capital Cooking Equipment Inc. was built on the innovation of its founders and endures to this day. Discover our history of first pioneers and innovators who laid the groundwork of what is known today as a high-end commercial range for the home.<\/p>",
+            "width": "100%",
+            "inner_width": 1200,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "d287cb1d-d77a-498f-ad16-37a16fc4837c": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "FINELY CRAFTED LUXURY APPLIANCES",
+            "subheading": "",
+            "text": "<p>Since its creation in 2001, Capital Cooking Equipment Inc. has developed into a major manufacturer of high quality cooking equipment for households all around the world. With a common vision, executives from competing luxury appliance manufacturers left their jobs to start Capital Cooking. Together, they built a world-class team of appliance design and manufacturing visionaries. This team went on to develop Capital Cooking’s line of finely crafted luxury appliances for the home chef.<\/p>",
+            "width": "100%",
+            "inner_width": 1200,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "1664771892ccb74947-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "38121ed3-dc50-4f68-b20e-142c1f882224": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "REVOLUTIONIZING THE INDUSTRY",
+            "subheading": "",
+            "text": "<p>In 2004, Capital Cooking unveiled its first outdoor cooking and grilling product line, which revolutionized the industry. Today, this line has expanded to include luxury built-in and freestanding grills, along with coordinating storage draws, outdoor access doors and accessories.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "2d934467-c8f6-4058-b329-98684f363487": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "NETWORK PARTNERSHIPS",
+            "subheading": "",
+            "text": "<p>At the end of 2010, The Food Network and Capital Cooking formed a partnership that placed Capital appliances on popular shows including Cupcake Wars, Chopped, and the Next Food Network Star. Later in 2017, Capital appliances also appeared on the hit cooking competition, Top Chef.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "583ce697-8e2b-4835-b603-ada5d708de08": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "6ee3a30f-31b0-4ef6-a88f-caf5ca80aa56": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "d4cce3af-5026-4261-b9fb-fd12045c8151": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "EVOLVING SUPERIOR CONSTRUCTION",
+            "subheading": "",
+            "text": "<p>Capital continues to invest in the development and improvement of its product, pushing the boundaries of innovation and helping to provide a seamless cooking experience with superior construction. We pride ourselves on creating stylish and efficient appliances that perform consistently time and time again.  With its unwavering commitment to innovation, adaptation, and quality, Capital Cooking continues to maintain its place as industry leader. Designed and manufactured in the US, Capital Cooking Equipment continues to handcraft high-end luxurious cooking appliances for the home chef.<\/p>",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664771892ccb74947-0",
+        "d287cb1d-d77a-498f-ad16-37a16fc4837c",
+        "1664771892ccb74947-1",
+        "38121ed3-dc50-4f68-b20e-142c1f882224",
+        "2d934467-c8f6-4058-b329-98684f363487",
+        "583ce697-8e2b-4835-b603-ada5d708de08",
+        "6ee3a30f-31b0-4ef6-a88f-caf5ca80aa56",
+        "d4cce3af-5026-4261-b9fb-fd12045c8151"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1664772718904db978",
+    "166477189208f69b1f"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "b1c8da03-8a63-462d-915b-b4535ac785cd": {
+      "type": "custom-content",
+      "blocks": {
+        "template--14407185137793__b1c8da03-8a63-462d-915b-b4535ac785cd-166494310262d1980d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Capital-PRECISION-free-wine-fridge-promo-web-Mar2022.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "d7e00fb2-eb51-4177-a70d-84498a83212e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Capital-PROGRILL-free-wine-fridge-promo-web-Mar2022.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "ab559c04-6453-4256-a4a3-09d2fc58d265": {
+          "type": "html",
+          "settings": {
+            "code": "<div align=\"center\">\n\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-DRINKS-ARE-ON-US-PROMO-Progrill-Free-Husky-fridge-TCs-Mar-Jun-2022.pdf?v=1664843210\">\nTerms &amp; Conditions\n<\/a> <br>\n\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-PRECISION-free-wine-fridge-promo-Mar-June-2022-REDEMPTION-FORM.pdf?v=1664843210\">\nRedemption Form\n<\/a> <br>\n\n<\/div>",
+            "width": "50%",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "183bc1af-0aa4-4079-9f7d-6fa7c88537fc": {
+          "type": "html",
+          "settings": {
+            "code": "<div align=\"center\">\n\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-DRINKS-ARE-ON-US-PROMO-Progrill-Free-Husky-fridge-TCs-Mar-Jun-2022.pdf?v=1664843210\">\nTerms &amp; Conditions\n<\/a> <br>\n\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-PROGRILL-free-wine-fridge-promo-Mar-Jun-2022-REDEMPTION-FORM.pdf?v=1664843210\">\nRedemption Form\n<\/a> <br>\n\n<\/div>",
+            "width": "50%",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14407185137793__b1c8da03-8a63-462d-915b-b4535ac785cd-166494310262d1980d-1",
+        "d7e00fb2-eb51-4177-a70d-84498a83212e",
+        "ab559c04-6453-4256-a4a3-09d2fc58d265",
+        "183bc1af-0aa4-4079-9f7d-6fa7c88537fc"
+      ],
+      "settings": {
+        "heading": "CURRENT PROMOTION",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b1c8da03-8a63-462d-915b-b4535ac785cd"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "433f9801-a2dd-4a23-9bcd-2209672166aa": {
+      "type": "download",
+      "blocks": {
+        "a4e4ab53-1168-4353-91ac-92aa2fc536e0": {
+          "type": "download",
+          "settings": {
+            "title": "52\" Cart Model Open Grill BBQ (ACG52RFS.1 N\/L)",
+            "download_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-Precision-BBQ-manual-2019.pdf?v=12651503956933595478"
+          }
+        },
+        "f58e9fe3-b745-4266-bee7-32f17c900faa": {
+          "type": "download",
+          "settings": {
+            "title": "52” Built In Barbecue with Open Grill (ACG52RBI.1 N\/L)",
+            "download_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-BBQ-manual-online.pdf?v=7611748365407585298"
+          }
+        },
+        "ed62fe5c-9030-4387-9596-15fcb4ff72a8": {
+          "type": "download",
+          "settings": {
+            "title": "40” Cart Model Open Grill BBQ (ACG40RFS.1 N\/L)",
+            "download_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-Precision-BBQ-manual-2019_1.pdf?v=12651503956933595478"
+          }
+        },
+        "2d015047-a9af-49f0-83a1-b48d10209508": {
+          "type": "download",
+          "settings": {
+            "title": "40” Built In Barbecue with Open Grill (ACG40RBI.1 N\/L)",
+            "download_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-BBQ-manual-online_1.pdf?v=7611748365407585298"
+          }
+        }
+      },
+      "block_order": [
+        "a4e4ab53-1168-4353-91ac-92aa2fc536e0",
+        "f58e9fe3-b745-4266-bee7-32f17c900faa",
+        "ed62fe5c-9030-4387-9596-15fcb4ff72a8",
+        "2d015047-a9af-49f0-83a1-b48d10209508"
+      ],
+      "settings": {
+        "title": "USER MANUALS"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "433f9801-a2dd-4a23-9bcd-2209672166aa"
+  ]
+}
