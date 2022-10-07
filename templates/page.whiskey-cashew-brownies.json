@@ -1,0 +1,95 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "156175e6-afe5-42a7-8776-a56254926397": {
+      "type": "custom-content",
+      "blocks": {
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_7811a8d7-354e-4441-813f-235d9fb0c5de.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Ingredients",
+            "subheading": "",
+            "text": "<p>1. 225g butter, melted<br\/>2. 2 tablespoons vegetable oil<br\/>3. 190g brown sugar<br\/>4. 250g caster sugar<br\/>5. 4 large eggs, room temperature<br\/>6. 2 teaspoons vanilla extract<br\/>7. 150g plain flour, sifted<br\/>8. 125g cocoa powder, sifted<br\/>9. 1 teaspoon table salt<br\/>10. 50ml whiskey<br\/>11. 120g roughly chopped chocolate buttons<br\/>12. 90g cashew nuts<\/p>",
+            "width": "50%",
+            "inner_width": 1200,
+            "alignment": "start",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "4da440a3-00bb-4840-a0d0-aba4475db08b": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Method",
+            "subheading": "",
+            "text": "<p>1. Preheat your BBQ by turning on two adjacent burners on high with the middle burners switched off, then close the lid.<br\/>2. In a medium mixing bowl whisk together the sugars, vegetable oil and butter followed by the eggs adding one at a time.<br\/>3. Add the whiskey, vanilla and salt followed by the cocoa and plain flour. Fold the ingredients using a spatula until well combined then add the chocolate and cashews and fold again to combine.<br\/>4. In a large heavy cast iron roasting tray, line with grease-proof paper. Pour the brownie batter into the tray and level out evenly.<br\/>5. Place the tray into the preheated BBQ on the middle grill and cook for 30 minutes. Check every 10 minutes to make sure it is not over cooking on the sides.<br\/>6. Allow to cool in the tray for 30 minutes then cut into squares. Serve while still warm for best results.<\/p>",
+            "width": "100%",
+            "inner_width": 1200,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1",
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0",
+        "4da440a3-00bb-4840-a0d0-aba4475db08b"
+      ],
+      "settings": {
+        "heading": "Whiskey & Cashew Brownies",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "156175e6-afe5-42a7-8776-a56254926397"
+  ]
+}

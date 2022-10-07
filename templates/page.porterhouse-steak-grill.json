@@ -1,0 +1,95 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "156175e6-afe5-42a7-8776-a56254926397": {
+      "type": "custom-content",
+      "blocks": {
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_17393532-e138-4370-86bf-c650539555c2.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Ingredients",
+            "subheading": "",
+            "text": "<p>1. 5 x 300g porterhouse steak<br\/>2. 50ml olive oil<br\/>3. cracked black pepper<br\/>4. sea salt flakes<br\/>5. 5 corn on the cob, husk on<br\/>6. 150g butter, softened<br\/>7. 2 teaspoons smoked paprika<\/p>",
+            "width": "50%",
+            "inner_width": 1200,
+            "alignment": "start",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "4da440a3-00bb-4840-a0d0-aba4475db08b": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Method",
+            "subheading": "",
+            "text": "<p>1. Turn the two burners on the right side of your capital BBQ (Infrared Burner) on high with the grill bars on top. Bring to heat and place your corn on the very top left of your grill.<br\/>2. Lower the temperature for your corn and constantly turn. Meanwhile make sure your meat is at room temperature and seasoned with the oil, salt and pepper.<br\/>3. Before putting your steaks on the grill make sure it is up to temperature (Extremely Hot). Then quickly place all the steaks in the middle of the grill making sure you drain the excess oil beforehand (Oil will catch alight). Cook the steaks for two minutes and turn to give it a cross mark. When steaks look like they have blood (myoglobin) seeping from the top of the steaks turn and cook for a further 2 minutes.<br\/>4. Cover and rest the cooked steaks for 5 minutes before serving. By this stage your corn should be cooked (12 minutes) remove the husks and either cut into portions or leave whole. Mix your butter and paprika together with a pinch of salt and smother over the corn. Serve as desired.<\/p>",
+            "width": "100%",
+            "inner_width": 1200,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1",
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0",
+        "4da440a3-00bb-4840-a0d0-aba4475db08b"
+      ],
+      "settings": {
+        "heading": "Porterhouse Steak & Grilled Corn",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "156175e6-afe5-42a7-8776-a56254926397"
+  ]
+}

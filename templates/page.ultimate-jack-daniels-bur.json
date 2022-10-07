@@ -1,0 +1,95 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "156175e6-afe5-42a7-8776-a56254926397": {
+      "type": "custom-content",
+      "blocks": {
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_f8212bad-61ef-406a-a479-9933aff31f56.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Ingredients",
+            "subheading": "",
+            "text": "<p>1. 4 x brioche buns<br\/>2. 2kg lean beef mince<br\/>3. 1 tablespoon Tuscan spice<br\/>4. 8 slices of American cheddar<br\/>5. 1 head of baby cos lettuce, thickly sliced<br\/>6. 3 large tomatoes, sliced<br\/>7. 4 large pickled cucumbers, sliced<br\/>8. 100g Tempura onion rings (see website for recipe)<br\/>9. Salt and Pepper to season<\/p><p><strong>Jack Daniels Glaze<\/strong><\/p><p>1. 1 head garlic, roasted<br\/>2. 1 brown onion, finely diced<br\/>3. 1 1\/3 cup brown sugar<br\/>4. 1 can (440g) crushed pineapple<br\/>5. ½ cup water<br\/>6. ½ cup teriyaki marinade<br\/>7. 2 tablespoons soy sauce<br\/>8. 1 lemon, juiced<br\/>9. ½ cup Jack Daniels whiskey<br\/>10. ¼ teaspoon cayenne pepper<\/p>",
+            "width": "50%",
+            "inner_width": 1200,
+            "alignment": "start",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "4da440a3-00bb-4840-a0d0-aba4475db08b": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Method",
+            "subheading": "",
+            "text": "<p>1. Start making the glaze by sautéing the onion with some olive oil in a medium saucepan. Once the onion begins to colour, add the garlic and cook for a further minute. Deglaze the pan with water, then follow this with brown sugar, pineapple, teriyaki marinade, soy sauce and cayenne pepper.<br\/>2. Simmer for 15 minutes or until the liquid begins to evaporate. At this stage add in the whiskey and lemon juice, then leave to simmer for a further 5 minutes. The glaze should be thick enough that it coats the back of a spoon.<br\/>3. Use a stab blender to mince the onion, pineapple and garlic. Set aside for later use.<br\/>4. Pre-heat the grill to high on your Capital BBQ and close the lid. This will ensure that the BBQ heats quicker.<br\/>5. In a large mixing bowl, combine the beef mince, Tuscan spice, salt and pepper.<br\/>6. Mould the mince into thick patties roughly 300g each, then lightly coat in olive oil.<br\/>7. Place the burgers on the grill then reduce the heat to medium-high. Close the lid and cook for 10 minutes on each side.<br\/>8. Prepare remaining ingredients for burger. Grill the brioche buns, slice the tomatoes and cucumbers and wash the lettuce.<br\/>9. Once your burgers are fully cooked, place a few slices of the cheddar cheese on top of the burger patties so they melt, then allow them to rest on the warming rack for 5 minutes.<br\/>10. Build your burgers starting with the bottom bun followed by pickles, tomato, beef patty, Jack Daniels glaze, onion rings, cos lettuce and then topped off with the top bun.<\/p>",
+            "width": "100%",
+            "inner_width": 1200,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1",
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0",
+        "4da440a3-00bb-4840-a0d0-aba4475db08b"
+      ],
+      "settings": {
+        "heading": "Ultimate Jack Daniels Burger",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "156175e6-afe5-42a7-8776-a56254926397"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "156175e6-afe5-42a7-8776-a56254926397": {
+      "type": "custom-content",
+      "blocks": {
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_bde1ce2a-ebaf-4471-b9c2-3bd184466d64.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Ingredients",
+            "subheading": "",
+            "text": "<p>1. 750g peeled fresh prawns<br\/>2. 2 punnets cherry tomatoes<br\/>3. 750g haloumi<br\/>4. 1 tablespoon olive oil<\/p><p><strong>Prawn Marinade<\/strong><\/p><p>1. ½ cup sweet chilli sauce<br\/>2. 1 tablespoon honey<br\/>3. 1 tablespoon sesame oil<br\/>4. 1 tablespoon soy sauce<br\/>5. 1 lime, juiced and zested<br\/>6. 1 teaspoon crushed garlic<br\/>7. 2 sprigs dill, roughly chopped<br\/>8. Cracked pepper<\/p>",
+            "width": "50%",
+            "inner_width": 1200,
+            "alignment": "start",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "4da440a3-00bb-4840-a0d0-aba4475db08b": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Method",
+            "subheading": "",
+            "text": "<p>1. In a medium mixing bowl combine all ingredients for the marinade together and whisk lightly. Add the prawns and leave to marinate for 1 hour.<br\/>2. Cut the haloumi into cubes roughly 2cm in width and height. Cut your skewers in half and soak in water. This will help the sticks not burn while cooking.<br\/>3. Begin skewering your ingredients. Start with a piece of haloumi followed by a cherry tomato then the marinated prawn. Continue doing this until you run out of prawns.<br\/>4. Cook the skewers on your Capital BBQ on the flat side of the grill bars. It’s best to cook them on a high flame just be sure to turn frequently as they can burn quickly. Cook until the prawns are fully cooked, roughly 8 minutes. Serve as a starter for your next big BBQ.<\/p>",
+            "width": "100%",
+            "inner_width": 1120,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1",
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0",
+        "4da440a3-00bb-4840-a0d0-aba4475db08b"
+      ],
+      "settings": {
+        "heading": "Charred Prawn, Haloumi & Cherry Tomato Skewers",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "156175e6-afe5-42a7-8776-a56254926397"
+  ]
+}

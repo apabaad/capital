@@ -1,0 +1,95 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "156175e6-afe5-42a7-8776-a56254926397": {
+      "type": "custom-content",
+      "blocks": {
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_fb6af77d-dd92-4777-a177-597473cf136c.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Ingredients",
+            "subheading": "",
+            "text": "<p>1. 12 brioche slider buns<br\/>2. 5kg pork shoulder, boned and fat trimmed<br\/>3. 2 cups apple and fennel slaw<br\/>4. 100g sliced jarlsberg cheese<br\/>5. 2 tablespoons mayonnaise<br\/>6. 200g woodchips<br\/>7. Texas BBQ sauce<\/p><p><strong>Pork Dry Rub<\/strong><\/p><p>1. ½ cup brown sugar<br\/>2. 1 tablespoon smoked paprika<br\/>3. 1 teaspoon cumin<br\/>4. 1 teaspoon sea salt<br\/>5. 1 teaspoon garlic powder<br\/>6. 1 teaspoon onion powder<br\/>7. 1 teaspoon cracked pepper<\/p>",
+            "width": "50%",
+            "inner_width": 1200,
+            "alignment": "start",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "4da440a3-00bb-4840-a0d0-aba4475db08b": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Method",
+            "subheading": "",
+            "text": "<p>1. Turn the far left burner on your BBQ on low. In your Smoker box add in your woodchips. Add some whiskey if you want a deeper smoke. Place your smoker box directly on the BBQ making sure you have removed a section of the grill to make room for the smoker.<br\/>2. Make the dry rub by combining all the ingredients together. Rub all over the pork then place in a baking tray. Place the pork in the middle of the BBQ. Place the smoker box in the grill and close the lid. Do not open the lid as you will lose the precious smoke. Leave to cook for 5-12 hours. You can cook the pork for longer but you will need top up the smoker box with more wood chips.<br\/>3. Cover the pork shoulder with alfoil and rest for 15 minutes. Shred the pork by ripping off the flesh along the grain. Place the pulled pork in a mixing bowl and cover with the BBQ sauce.<br\/>4. Build your sliders with the slaw first then the cheese followed by the pulled pork. You can also butter the bread or smear mayonnaise on the buns. Serve with a skewer to hold the sliders together when transferring to a plate.<\/p>",
+            "width": "100%",
+            "inner_width": 1200,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1",
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0",
+        "4da440a3-00bb-4840-a0d0-aba4475db08b"
+      ],
+      "settings": {
+        "heading": "Pulled Pork Sliders",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "156175e6-afe5-42a7-8776-a56254926397"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "156175e6-afe5-42a7-8776-a56254926397": {
+      "type": "custom-content",
+      "blocks": {
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_8b755168-4dc9-480f-97cd-f0c578b81217.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Ingredients",
+            "subheading": "",
+            "text": "<p>1. 200g brussel sprouts<br\/>2. 1 head of broccoli<br\/>3. 150g speck<br\/>4. 120g goats cheese, crumbled<br\/>5. 1 tablespoon olive oil<br\/>6. 2 teaspoons pink Himalayan salt<br\/>7. 1\/2 teaspoon cracked pepper<br\/>8. 1 lime, zested and juiced<\/p><p><strong>Hints and tips!<\/strong><\/p><p>1. Take out the Speck for a great vegetarian option!<br\/>2. You can use a lemon infused olive oil for a great dressing that matches the flavours well.<br\/>3. Use seasonal greens such as asparagus or snow peas<\/p>",
+            "width": "50%",
+            "inner_width": 1200,
+            "alignment": "start",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "4da440a3-00bb-4840-a0d0-aba4475db08b": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "Method",
+            "subheading": "",
+            "text": "<p>1. Pre-heat flat plate and one burner below grills to medium-high heat before cooking.<br\/>2. Prepare your greens by cutting the brussel sprouts in half (stem to tip) then with the broccoli cut into large florets. Keep separate. Don’t cut too small or they will fall between the grills.<br\/>3. Blanch the greens in boiling hot water for 1 minute to begin the cooking process, drain hot water, and then set aside.<br\/>4. On the grill, place speck and grill till char lines can be seen both sides. About 2 mins each side. Set speck aside on chopping board.<br\/>5. Lightly oil the greens in a bowl. Place brussel sprouts on the flat plate if smaller, or can use grills if larger sprouts.<br\/>6. Grill your greens till char appears. Set aside to cool slightly.<br\/>7. Slice speck into batons.<br\/>8. Combine in a large mixing bowl the greens, speck, goat’s cheese, salt, pepper, lime and olive oil.<br\/>9. Place the mix on a platter and serve.<\/p>",
+            "width": "100%",
+            "inner_width": 1200,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-1",
+        "template--14419377062017__156175e6-afe5-42a7-8776-a56254926397-1665105497d208db62-0",
+        "4da440a3-00bb-4840-a0d0-aba4475db08b"
+      ],
+      "settings": {
+        "heading": "Grilled Greens, Speck & Goats Cheese Salad",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "156175e6-afe5-42a7-8776-a56254926397"
+  ]
+}
