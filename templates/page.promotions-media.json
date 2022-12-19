@@ -31,10 +31,58 @@
             "block_custom_class": ""
           }
         },
+        "7f3edd35-a78c-4ba4-82fb-9fae92867e93": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 0,
+            "text_padding_bottom": 0,
+            "title": "EXPIRED",
+            "subheading": "",
+            "text": "",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-white",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "18929827-195f-406f-873d-352bf12d7b3e": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#111111",
+            "text_padding_top": 0,
+            "text_padding_bottom": 0,
+            "title": "EXPIRED",
+            "subheading": "",
+            "text": "",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-white",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
         "ab559c04-6453-4256-a4a3-09d2fc58d265": {
           "type": "html",
           "settings": {
-            "code": "<div align=\"center\">\n\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-DRINKS-ARE-ON-US-PROMO-Progrill-Free-Husky-fridge-TCs-Mar-Jun-2022.pdf?v=1664843210\">\nTerms &amp; Conditions\n<\/a> <br>\n\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-PRECISION-free-wine-fridge-promo-Mar-June-2022-REDEMPTION-FORM.pdf?v=1664843210\">\nRedemption Form\n<\/a> <br>\n\n<\/div>",
+            "code": "<div align=\"center\">\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-DRINKS-ARE-ON-US-PROMO-Progrill-Free-Husky-fridge-TCs-Mar-Jun-2022.pdf?v=1664843210\" class=\"sf__btn sf__btn-primary sf__btn-white \">Terms &amp; Conditions<\/a>\n\n<a style=\"margin-left:5px;\" href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-PRECISION-free-wine-fridge-promo-Mar-June-2022-REDEMPTION-FORM.pdf?v=1664843210\" class=\"sf__btn sf__btn-primary sf__btn-white \">Redemption Form<\/a>\n\n\n\n<\/div>",
             "width": "50%",
             "mobile_order": "",
             "block_custom_class": ""
@@ -43,7 +91,7 @@
         "183bc1af-0aa4-4079-9f7d-6fa7c88537fc": {
           "type": "html",
           "settings": {
-            "code": "<div align=\"center\">\n\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-DRINKS-ARE-ON-US-PROMO-Progrill-Free-Husky-fridge-TCs-Mar-Jun-2022.pdf?v=1664843210\">\nTerms &amp; Conditions\n<\/a> <br>\n\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-PROGRILL-free-wine-fridge-promo-Mar-Jun-2022-REDEMPTION-FORM.pdf?v=1664843210\">\nRedemption Form\n<\/a> <br>\n\n<\/div>",
+            "code": "<div align=\"center\">\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-DRINKS-ARE-ON-US-PROMO-Progrill-Free-Husky-fridge-TCs-Mar-Jun-2022.pdf?v=1664843210\" class=\"sf__btn sf__btn-primary sf__btn-white \">Terms &amp; Conditions<\/a>\n\n<a style=\"margin-left:5px;\" href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital-PROGRILL-free-wine-fridge-promo-Mar-Jun-2022-REDEMPTION-FORM.pdf?v=1664843210\" class=\"sf__btn sf__btn-primary sf__btn-white \">Redemption Form<\/a>\n\n\n\n<\/div>",
             "width": "50%",
             "mobile_order": "",
             "block_custom_class": ""
@@ -53,6 +101,8 @@
       "block_order": [
         "template--14407185137793__b1c8da03-8a63-462d-915b-b4535ac785cd-166494310262d1980d-1",
         "d7e00fb2-eb51-4177-a70d-84498a83212e",
+        "7f3edd35-a78c-4ba4-82fb-9fae92867e93",
+        "18929827-195f-406f-873d-352bf12d7b3e",
         "ab559c04-6453-4256-a4a3-09d2fc58d265",
         "183bc1af-0aa4-4079-9f7d-6fa7c88537fc"
       ],

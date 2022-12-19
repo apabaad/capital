@@ -2,11 +2,148 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "1431b347-5eb2-4dae-b0be-ba0f10afa92a": {
+      "type": "collection-page-banner",
+      "settings": {
+        "container": "container",
+        "layout": "without_breadcrumb",
+        "header_height": "adapt",
+        "content_width": "small",
+        "text_alignment": "left",
+        "horizontal_alignment": "start",
+        "vertical_alignment": "center",
+        "text_color": "dark",
+        "bg_color": "#f5f1ed",
+        "bg_image": "shopify:\/\/shop_images\/ACG40_Banner.jpg",
+        "overlay_color": "",
+        "overlay_opacity": 0.5,
+        "enable_parallax": false,
+        "upper_title": false,
+        "show_desc": true,
+        "collection_all_desc": "<p>jhwdegfklsdjn.gjb<\/p>"
+      }
+    },
+    "7d3bb188-aa77-477f-bbcb-dd1da5be40e7": {
+      "type": "custom-content",
+      "blocks": {
+        "template--14469685608577__7d3bb188-aa77-477f-bbcb-dd1da5be40e7-1671418662024ff9be-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#fff",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "PRECISION GRILL SERIES",
+            "subheading": "",
+            "text": "",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "View Products",
+            "button_link": "shopify:\/\/collections\/precision-series-grills",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "template--14469685608577__7d3bb188-aa77-477f-bbcb-dd1da5be40e7-1671418662024ff9be-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fINELY_CRAFTED_lUXURY.jpg",
+            "link": "shopify:\/\/collections\/precision-series-grills",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14469685608577__7d3bb188-aa77-477f-bbcb-dd1da5be40e7-1671418662024ff9be-0",
+        "template--14469685608577__7d3bb188-aa77-477f-bbcb-dd1da5be40e7-1671418662024ff9be-1"
+      ],
+      "settings": {
+        "heading": "OUR PRODUCTS",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    },
+    "37303f67-5294-4324-af48-ccb66cf924a8": {
+      "type": "custom-content",
+      "blocks": {
+        "template--14469685608577__37303f67-5294-4324-af48-ccb66cf924a8-1671418662024ff9be-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fINELY_CRAFTED_lUXURY.jpg",
+            "link": "shopify:\/\/collections\/precision-series-grills",
+            "width": "50%",
+            "alignment": "center",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        },
+        "template--14469685608577__37303f67-5294-4324-af48-ccb66cf924a8-1671418662024ff9be-0": {
+          "type": "text",
+          "settings": {
+            "BgColor": "#fff",
+            "text_padding_top": 40,
+            "text_padding_bottom": 40,
+            "title": "PROGRILL SERIES",
+            "subheading": "",
+            "text": "",
+            "width": "50%",
+            "inner_width": 500,
+            "alignment": "center",
+            "horizontal_alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "View Products",
+            "button_link": "shopify:\/\/collections\/progrill-series",
+            "button_style": "sf__btn-primary",
+            "button_color": "sf__btn-black",
+            "mobile_order": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14469685608577__37303f67-5294-4324-af48-ccb66cf924a8-1671418662024ff9be-1",
+        "template--14469685608577__37303f67-5294-4324-af48-ccb66cf924a8-1671418662024ff9be-0"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1431b347-5eb2-4dae-b0be-ba0f10afa92a",
+    "7d3bb188-aa77-477f-bbcb-dd1da5be40e7",
+    "37303f67-5294-4324-af48-ccb66cf924a8"
   ]
 }

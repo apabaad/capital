@@ -19,7 +19,7 @@
     "color_image_2_opacity": 0,
     "color_image_1": "#000000",
     "color_image_1_opacity": 62,
-    "color_small_image_bg": "#ffffff",
+    "color_small_image_bg": "#111111",
     "color_large_image_bg": "#111111",
     "type_header_font_family": "itc_avant_garde_gothic_n7",
     "type_header_spacing": "0",
@@ -43,12 +43,15 @@
     "animate_buttons": true,
     "animate_underlines": true,
     "product_hover_image": false,
-    "quick_shop_enable": true,
+    "quick_shop_enable": false,
     "cart_type": "drawer",
+    "cart_notes_enable": true,
+    "cart_terms_conditions_enable": true,
     "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
     "social_twitter_link": "https:\/\/instagram.com\/shopify",
     "social_pinterest_link": "https:\/\/instagram.com\/shopify",
     "social_instagram_link": "https:\/\/instagram.com\/shopify",
+    "favicon": "shopify:\/\/shop_images\/Capital.png",
     "checkout_header_image": "",
     "checkout_logo_image": "",
     "checkout_logo_position": "left",
@@ -81,13 +84,18 @@
               "promo_text_1": "",
               "promo_url_1": "shopify:\/\/pages\/promotions-media",
               "promo_image_2": "shopify:\/\/shop_images\/Capital-PROGRILL-free-wine-fridge-promo-web-Mar2022.jpg",
-              "promo_heading_2": "Prrogrill Promotion",
+              "promo_heading_2": "Progrill Promotion",
               "promo_text_2": "",
-              "promo_url_2": "shopify:\/\/pages\/promotions-media"
+              "promo_url_2": "shopify:\/\/pages\/promotions-media",
+              "promo_image_3": "shopify:\/\/shop_images\/psq52.jpg",
+              "promo_heading_3": "Brochure",
+              "promo_text_3": "",
+              "promo_url_3": ""
             }
           },
           "1f7e8b90-9d33-4a5a-aab1-35c562fcb0d0": {
             "type": "megamenu",
+            "disabled": true,
             "settings": {
               "menu_item": "Downloads",
               "promo_image_1": "shopify:\/\/shop_images\/Capital-PROGRILL-free-wine-fridge-promo-web-Mar2022.jpg",
@@ -97,7 +105,10 @@
               "promo_image_2": "shopify:\/\/shop_images\/Capital-PRECISION-free-wine-fridge-promo-web-Mar2022.jpg",
               "promo_heading_2": "Precision Promotion",
               "promo_text_2": "",
-              "promo_url_2": "shopify:\/\/pages\/promotions-media"
+              "promo_url_2": "shopify:\/\/pages\/promotions-media",
+              "promo_heading_3": "",
+              "promo_text_3": "",
+              "promo_url_3": ""
             }
           }
         },
@@ -112,9 +123,9 @@
           "main_menu_link_list": "main-menu",
           "main_menu_alignment": "left-center",
           "header_sticky": true,
-          "sticky_index": true,
+          "sticky_index": false,
           "sticky_collection": false,
-          "show_announcement": true,
+          "show_announcement": false,
           "announcement_text": "Alert: COVID-19 stay informed here",
           "announcement_link": "",
           "announcement_closable": false

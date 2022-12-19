@@ -33,6 +33,10 @@
             assign promo_heading_2 = block.settings.promo_heading_2
             assign promo_text_2 = block.settings.promo_text_2
             assign promo_url_2 = block.settings.promo_url_2
+            assign promo_image_3 = block.settings.promo_image_3
+            assign promo_heading_3 = block.settings.promo_heading_3
+            assign promo_text_3 = block.settings.promo_text_3
+            assign promo_url_3 = block.settings.promo_url_3
             break
           endif
         endfor
@@ -151,6 +155,34 @@
                       <div>{{ promo_text_2 }}</div>
                     {%- endif -%}
                   {%- if promo_url_2 -%}
+                    </a>
+                  {%- endif -%}
+                </div>
+              {%- endif -%}
+              {%- if promo_image_3 -%}
+                {%- assign columns = columns | plus: 1 -%}
+                <div class="megamenu__promo appear-animation appear-delay-{{ columns }}">
+                  {%- if promo_url_3 -%}
+                    <a href="{{ promo_url_3 }}" class="megamenu__promo-link">
+                  {%- endif -%}
+                    <div style="margin: 0 auto; max-width: {{ promo_image_3.width }}px">
+                      <div class="image-wrap aos-animate megamenu__promo-image" style="height: 0; padding-bottom: {{ 100 | divided_by: promo_image_3.aspect_ratio }}%;">
+                        {%- assign img_url = promo_image_3 | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+                        <img class="lazyload"
+                            data-src="{{ img_url }}"
+                            data-widths="[540, 750, 900]"
+                            data-aspectratio="{{ promo_image_3.aspect_ratio }}"
+                            data-sizes="auto"
+                            alt="{{ promo_image_3.alt }}">
+                      </div>
+                    </div>
+                    {%- if promo_heading_3 -%}
+                      <div><strong>{{ promo_heading_3 }}</strong></div>
+                    {%- endif -%}
+                    {%- if promo_text_3 -%}
+                      <div>{{ promo_text_3 }}</div>
+                    {%- endif -%}
+                  {%- if promo_url_3 -%}
                     </a>
                   {%- endif -%}
                 </div>

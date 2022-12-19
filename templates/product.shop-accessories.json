@@ -1,18 +1,17 @@
 {
   "sections": {
-    "24f22669-c80c-4389-8b74-dba959e3a8a5": {
+    "12d00730-2de4-40dd-8ea5-4387d2cdb09a": {
       "type": "capital-product-banner",
       "settings": {
         "container": "container",
         "layout": "without_breadcrumb",
-        "header_height": "adapt",
+        "header_height": "medium",
         "content_width": "small",
         "text_alignment": "left",
         "horizontal_alignment": "start",
         "vertical_alignment": "center",
         "text_color": "dark",
         "bg_color": "#f5f1ed",
-        "bg_image": "{{ product.metafields.custom.product_banner.value }}",
         "overlay_color": "",
         "overlay_opacity": 0.5,
         "enable_parallax": false,
@@ -24,15 +23,19 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "price": {
-          "type": "price",
-          "disabled": true,
+        "description": {
+          "type": "description",
           "settings": {
+            "is_tab": false
           }
         },
         "separator": {
           "type": "separator",
-          "disabled": true,
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
           "settings": {
           }
         },
@@ -70,12 +73,6 @@
             "surface_pickup_enable": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        },
         "tab": {
           "type": "tab",
           "disabled": true,
@@ -101,13 +98,13 @@
         }
       },
       "block_order": [
-        "price",
+        "description",
         "separator",
+        "price",
         "variant_picker",
         "sales_point",
         "inventory_status",
         "buy_buttons",
-        "description",
         "tab",
         "contact",
         "share"
@@ -126,15 +123,18 @@
     },
     "sub": {
       "type": "product-full-width",
+      "disabled": true,
       "blocks": {
         "aec6632a-54b2-431e-9f54-5ede222b8752": {
           "type": "custom",
+          "disabled": true,
           "settings": {
             "code": "<h4>Product Description<\/h4><div class=\"page-width\">{{product.metafields.custom.product_description}}\n<\/div>"
           }
         },
         "0c76cd63-bb5d-496a-b69f-5a812247d30d": {
           "type": "custom",
+          "disabled": true,
           "settings": {
             "code": "<span style=\"font-weight:bold\">Barbecue for outdoor use only<\/span><p>WARNING: Technical specifications and product sizes can be varied by the manufacturer, without notice. Cut outs for appliances should only be physical product measurements. The above information is indicative only.<\/p>"
           }
@@ -150,7 +150,6 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
         "show_product_recommendations": true,
         "product_recommendations_heading": "You may also like",
@@ -165,7 +164,7 @@
     }
   },
   "order": [
-    "24f22669-c80c-4389-8b74-dba959e3a8a5",
+    "12d00730-2de4-40dd-8ea5-4387d2cdb09a",
     "main",
     "sub",
     "product-recommendations",

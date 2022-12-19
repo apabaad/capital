@@ -56,7 +56,7 @@
         "16647693477232e903-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2.png",
+            "image": "shopify:\/\/shop_images\/W-Shaped-Burners.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center",
@@ -67,7 +67,7 @@
         "bfdffa5e-dece-4526-8320-d10284bd0509": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_3.png",
+            "image": "shopify:\/\/shop_images\/Infrared-Burner.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center",
@@ -126,7 +126,7 @@
         "dfe1f5af-12b5-4ec9-a856-451bede135fc": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_4.png",
+            "image": "shopify:\/\/shop_images\/Rotisserie.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center",
@@ -137,6 +137,7 @@
         "d80780d4-7713-4259-9f0a-19c112672b0f": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Capital_7fed6cb4-43d4-48d0-8a4b-1ef2a2742545.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center",
@@ -195,6 +196,7 @@
         "4e6401fe-8c99-4b67-94e0-f26dc77b2843": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/download.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center",

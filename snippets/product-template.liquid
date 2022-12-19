@@ -103,6 +103,8 @@
                 </div>
               {%- endif -%}
 
+              {% if show_title_over_banner %}
+                
               {%- if isModal -%}
                 <p class="h2 product-single__title">
                   {{ product.title }}
@@ -123,7 +125,9 @@
                     {{ current_variant.sku }}
                   {%- endif -%}
                 </p>
-              {%- endif -%}
+              {%- endif -%} 
+
+            {% endif %}
             </div>
 
             <div data-product-blocks>

@@ -2,11 +2,29 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "b85f57a4-eaa1-43e8-a37a-3105afb833ff": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "INSTALLATION",
+        "title": "Coming Soon...",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Steel_Meat_1900x550_1eef5279-bc3e-4e2d-8de2-7e1cbe2e7412.jpg",
+        "focal_point": "80% 50%",
+        "layout": "left",
+        "height": 750,
+        "parallax": false,
+        "parallax_direction": "top"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "b85f57a4-eaa1-43e8-a37a-3105afb833ff"
   ]
 }
