@@ -132,11 +132,11 @@
           {%- endif -%}
           {%- if product.price_varies -%}
             {%- assign price = product.price_min | money -%}
-            <span {% if on_sale %}class="sale-price"{% endif %}>
+            <span {% if on_sale %}class="sale-price text-white"{% endif %}>
               {{ 'products.general.from_text_html' | t: price: price }}
             </span>
           {%- else -%}
-            <span {% if on_sale %}class="sale-price"{% endif %}>
+            <span {% if on_sale %}class="sale-price text-white"{% endif %}>
               {{ product.price  | money }}
             </span>
           {%- endif -%}

@@ -131,3 +131,23 @@
 #CartDrawer {
   background-color: #111111 !important;
 }
+
+.shopify-payment-button__button {
+  background-color: white !important;
+  color: black !important;
+}
+
+.capital-product-pdfs {
+  margin-bottom: 1rem;
+}
+
+.capital-product-pdfs .sf__btn:hover {
+  background: #fff;
+  color: #000;
+}
+
+.capital-banner-text {
+  background-color: #000;
+  opacity: 0.7;
+  padding: 1rem;
+}

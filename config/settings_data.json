@@ -3,8 +3,8 @@
     "color_body_bg": "#111111",
     "color_body_text": "#ffffff",
     "color_borders": "#e8e8e1",
-    "color_button": "#111111",
-    "color_button_text": "#ffffff",
+    "color_button": "#ffffff",
+    "color_button_text": "#1c1d1d",
     "color_header": "#111111",
     "color_header_text": "#ffffff",
     "color_announcement": "#1c1d1d",
@@ -170,11 +170,11 @@
               "container_width": 20
             }
           },
-          "71f40479-b2de-47aa-910b-d9f906e3657d": {
+          "1494292485313": {
             "type": "menu",
             "settings": {
               "show_footer_title": true,
-              "menu": "footer-menu",
+              "menu": "main-menu",
               "container_width": 20
             }
           },
@@ -186,14 +186,6 @@
               "container_width": 20
             }
           },
-          "1494292485313": {
-            "type": "menu",
-            "settings": {
-              "show_footer_title": true,
-              "menu": "main-menu",
-              "container_width": 20
-            }
-          },
           "1494301487049": {
             "type": "menu",
             "settings": {
@@ -201,14 +193,22 @@
               "menu": "footer",
               "container_width": 20
             }
+          },
+          "71f40479-b2de-47aa-910b-d9f906e3657d": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": true,
+              "menu": "footer-menu",
+              "container_width": 20
+            }
           }
         },
         "block_order": [
           "1494292481350",
-          "71f40479-b2de-47aa-910b-d9f906e3657d",
-          "9ca7b3eb-4b95-4173-8a2d-571a82da0620",
           "1494292485313",
-          "1494301487049"
+          "9ca7b3eb-4b95-4173-8a2d-571a82da0620",
+          "1494301487049",
+          "71f40479-b2de-47aa-910b-d9f906e3657d"
         ],
         "settings": {
           "show_locale_selector": true,

@@ -1174,7 +1174,7 @@ button.sf__btn.sf__btn-secondary.sf__btn-white {
 .sf__btn-white.sf__btn:hover {
   background: #fff !important;
   border-color: #fff !important;
-  box-shadow: 0 0 0 0.2rem #fff !important;
+  box-shadow: 0 0 0 2px #fff !important;
   color: #000 !important;
 }
 
@@ -2005,5 +2005,5 @@ body .collapsible-trigger--inline .collapsible-trigger__icon svg {
 } */
 
 .sf__ms .grid {
-  display:grid;
+  display: grid;
 }

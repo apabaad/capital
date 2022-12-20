@@ -31,6 +31,7 @@
         },
         "separator": {
           "type": "separator",
+          "disabled": true,
           "settings": {
           }
         },
@@ -65,14 +66,6 @@
             "inventory_transfers_enable": true
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        },
         "tab": {
           "type": "tab",
           "disabled": true,
@@ -95,6 +88,13 @@
           "disabled": true,
           "settings": {
           }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
         }
       },
       "block_order": [
@@ -104,10 +104,10 @@
         "variant_picker",
         "sales_point",
         "inventory_status",
-        "buy_buttons",
         "tab",
         "contact",
-        "share"
+        "share",
+        "buy_buttons"
       ],
       "settings": {
         "sku_enable": true,

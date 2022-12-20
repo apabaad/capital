@@ -85,7 +85,7 @@
                                             <h3 class="content__heading text-2xl text-{{ block.settings.text_color }} {% if block.settings.text_size == 'medium' %}lg:text-3xl sm:text-2xl{% else %}lg:text-5xl sm:text-3xl {% endif %}">{{ block.settings.title }}</h3>
                                         {% endif %}
                                         {% if block.settings.text != blank %}
-                                            <div class="prose rte mt-4 text-color-subtext {% if block.settings.text_size == 'medium' %}lg:text-base sm:text-tiny{% else %}lg:text-xl sm:text-lg {% endif %} ">{{ block.settings.text }}</div>
+                                            <div align="justify" class="prose rte mt-4 text-color-subtext {% if block.settings.text_size == 'medium' %}lg:text-base sm:text-tiny{% else %}lg:text-xl sm:text-lg {% endif %} ">{{ block.settings.text }}</div>
                                         {% endif %}
                                         {% if block.settings.button_label != blank %}
                                             <div class="sf-custom__text-cta mt-8">

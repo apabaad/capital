@@ -33,12 +33,12 @@
         "template--14469685608577__7d3bb188-aa77-477f-bbcb-dd1da5be40e7-1671418662024ff9be-0": {
           "type": "text",
           "settings": {
-            "BgColor": "#fff",
+            "BgColor": "#ffffff",
             "text_padding_top": 40,
             "text_padding_bottom": 40,
             "title": "PRECISION GRILL SERIES",
             "subheading": "",
-            "text": "",
+            "text": "<p>Capital BBQs are designed to complete the look of your outdoor kitchen design as well as give you outstanding cooking results.<\/p>",
             "width": "50%",
             "inner_width": 500,
             "alignment": "center",
@@ -100,12 +100,12 @@
         "template--14469685608577__37303f67-5294-4324-af48-ccb66cf924a8-1671418662024ff9be-0": {
           "type": "text",
           "settings": {
-            "BgColor": "#fff",
+            "BgColor": "#ffffff",
             "text_padding_top": 40,
             "text_padding_bottom": 40,
             "title": "PROGRILL SERIES",
             "subheading": "",
-            "text": "",
+            "text": "<p>Capital BBQs are designed to complete the look of your outdoor kitchen design as well as give you outstanding cooking results.<\/p>",
             "width": "50%",
             "inner_width": 500,
             "alignment": "center",

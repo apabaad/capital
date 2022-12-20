@@ -53,7 +53,7 @@
 >
     <div class="collection-header__bg absolute -inset-0 bg-color bg-no-repeat bg-cover bg-center pointer-events-none {% if enable_parallax %} bg-fixed{% endif %}"></div>
     <div class="{{ section.settings.container }} flex justify-{{horizontal_alignment}} text-{{ text_alignment }}">
-        <div class="sf__collection-headerContent relative z-1 {% if content_width == 'small' %} max-w-2xl	{% else %} max-w-full{% endif %}{% if section.settings.text_color == 'white'%} text-white{% else %} text-dark{% endif %}">
+        <div class="sf__collection-headerContent relative z-1 {% if content_width == 'small' %} max-w-2xl	{% else %} max-w-full{% endif %}{% if section.settings.text_color == 'white'%} text-white{% else %} text-dark{% endif %} ">
             <h1 class="collection-header__title lg:text-[42px] text-2xl {% if section.settings.upper_title %}uppercase{% else %}capitalize{% endif %}">{{ collection.title }}</h1>
             {% if show_breadcrumb and layout == 'inside' %}
                 <div class="collection-header__breadcrumb">
@@ -284,6 +284,7 @@
         "label": "Show description",
         "default": false
       },
+     
       {
         "type": "richtext",
         "id": "collection_all_desc",

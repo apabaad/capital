@@ -49,11 +49,12 @@
     },
     "785f643a-2de7-40f6-9cbb-72de74320fc2": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
-        "title": "Precision Series Grills",
+        "title": "Capital Grills",
         "home_featured_products": "precision-series-grills",
-        "per_row": 4,
-        "rows": 1,
+        "per_row": 3,
+        "rows": 2,
         "view_all": false,
         "divider": false
       }
@@ -80,7 +81,7 @@
             "text_padding_bottom": 40,
             "title": "PRODUCT RANGE",
             "subheading": "",
-            "text": "<p>Lorem ipsum dolor sit amet. Sit quia delectus hic explicabo omnis et optio molestiae est tempora labore et distinctio culpa ad molestiae aspernatur non assumenda cupiditate.<\/p>",
+            "text": "<p>Built with the serious BBQ lover in mind, Capital has two<br\/>range sure to appease the most astute cook.<\/p>",
             "width": "50%",
             "inner_width": 500,
             "alignment": "center",
@@ -141,7 +142,7 @@
             "text_padding_bottom": 40,
             "title": "PROUD HISTORY",
             "subheading": "",
-            "text": "<p>Lorem ipsum dolor sit amet. Sit quia delectus hic explicabo omnis et optio molestiae est tempora labore et distinctio culpa ad molestiae aspernatur non assumenda cupiditate.<\/p>",
+            "text": "<p>Capital Cooking started with an idea. The idea was to bring a professional product into the domestic home. Started in 2001, Capital has redesigned what the BBQ can be and do for you. The Capital engineer-owner was the first to build an all-Stainless BBQ for the US market but didn’t stop there. Redesigning and developing to be the best and stay ahead of the market and cooking trends. Capital Cooking is a story of a love of design and never settling for second best. <\/p><p> <\/p>",
             "width": "50%",
             "inner_width": 500,
             "alignment": "center",
