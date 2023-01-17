@@ -8,9 +8,9 @@
 
 <div id="NavDrawer" class="drawer drawer--{{ drawer_position }}">
   <div class="drawer__contents">
-    <div class="drawer__fixed-header">
+    <div class="drawer__fixed-header bg-black">
       <div class="drawer__header appear-animation appear-delay-{{ animation_row }}">
-        <div class="drawer__title"></div>
+        <div class="drawer__title ">Menu</div>
         <div class="drawer__close">
           <button type="button" class="drawer__close-button js-drawer-close">
             <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="M19 17.61l27.12 27.13m0-27.12L19 44.74"/></svg>
@@ -19,7 +19,7 @@
         </div>
       </div>
     </div>
-    <div class="drawer__scrollable">
+    <div class="drawer__scrollable bg-black">
       <ul class="mobile-nav" role="navigation" aria-label="Primary">
         {%- for link in main_menu.links -%}
           {%- liquid
@@ -50,7 +50,7 @@
             endif
           -%}
 
-          <li class="mobile-nav__item{% unless template == 'index' %}{% if link.active %} mobile-nav__item--active{% endif %}{% endunless %} appear-animation appear-delay-{{ animation_row }}">
+          <li class="mobile-nav__item{% unless template == 'index' %}{% if link.active %} mobile-nav__item--active{% endif %}{% endunless %} appear-animation appear-delay-{{ animation_row }} bg-black">
             {%- if has_dropdown -%}
               <div class="mobile-nav__has-sublist">
                 {%- assign trigger_link = false -%}

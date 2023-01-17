@@ -8,7 +8,12 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Popular picks"
+        "title": "Popular Grills",
+        "home_featured_products": "precision-series-grills",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
       }
     }
   },

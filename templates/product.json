@@ -18,7 +18,7 @@
         "enable_parallax": false,
         "upper_title": false,
         "show_desc": false,
-        "text_bg": true,
+        "text_bg": false,
         "collection_all_desc": ""
       }
     },

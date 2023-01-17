@@ -79,7 +79,7 @@
                                 <div style="max-width:{{block.settings.inner_width}}px">
                                     <div class="text-{{ block.settings.align_text }}" style="color: {{ block.settings.text_color }};">
                                         {% if block.settings.subheading != blank %}
-                                            <p class="mb-5 content__subheading text-{{ block.settings.text_color }}">{{ block.settings.subheading }}</p>
+                                            <span class="content__subheading text-{{ block.settings.text_color }}">{{ block.settings.subheading }}</span>
                                         {% endif %}
                                         {% if block.settings.title != blank %}
                                             <h3 class="content__heading text-2xl text-{{ block.settings.text_color }} {% if block.settings.text_size == 'medium' %}lg:text-3xl sm:text-2xl{% else %}lg:text-5xl sm:text-3xl {% endif %}">{{ block.settings.title }}</h3>

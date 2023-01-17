@@ -36,7 +36,7 @@
             "text_padding_top": 40,
             "text_padding_bottom": 40,
             "title": "30 Mj\/hr W Shaped Burners",
-            "subheading": "",
+            "subheading": "PRECISION SERIES",
             "text": "<p>100% Stainless Steel, our exclusive W shape burner is engineered to produce a larger, more powerful heating area while providing consistent heat, efficiently and precisely, throughout the cooking process. The unique heat dispersion plates located over each of these burners ensures a uniform transference of heat to the open griddle sections.<\/p>",
             "width": "50%",
             "inner_width": 500,
@@ -49,7 +49,7 @@
             "button_link": "",
             "button_style": "sf__btn-primary",
             "button_color": "sf__btn-white",
-            "mobile_order": "",
+            "mobile_order": "1",
             "block_custom_class": ""
           }
         },
@@ -60,7 +60,7 @@
             "link": "",
             "width": "50%",
             "alignment": "center",
-            "mobile_order": "",
+            "mobile_order": "2",
             "block_custom_class": ""
           }
         },
@@ -71,7 +71,7 @@
             "link": "",
             "width": "50%",
             "alignment": "center",
-            "mobile_order": "",
+            "mobile_order": "4",
             "block_custom_class": ""
           }
         },
@@ -82,7 +82,7 @@
             "text_padding_top": 40,
             "text_padding_bottom": 40,
             "title": "30Mj\/hr SEAR ZONE infrared Burner",
-            "subheading": "",
+            "subheading": "PRECISION SERIES",
             "text": "<p>Capital’s Infrared-Zone Cooking has been engineered for producing that perfectly seared steak. The extremely high surface temperatures (1,000 degrees) of this burner ensures that the juices are locked in every time you cook your favourite cut of meat. The exclusive internal section dividers enable you to cook efficiently at different temperatures without cross-temperature transference (eg. slow cooking over one burner and fast cooking at high temp over another).<\/p>",
             "width": "50%",
             "inner_width": 500,
@@ -95,7 +95,7 @@
             "button_link": "",
             "button_style": "sf__btn-primary",
             "button_color": "sf__btn-black",
-            "mobile_order": "",
+            "mobile_order": "3",
             "block_custom_class": ""
           }
         },
@@ -119,7 +119,7 @@
             "button_link": "",
             "button_style": "sf__btn-primary",
             "button_color": "sf__btn-black",
-            "mobile_order": "",
+            "mobile_order": "5",
             "block_custom_class": ""
           }
         },
@@ -130,7 +130,7 @@
             "link": "",
             "width": "50%",
             "alignment": "center",
-            "mobile_order": "",
+            "mobile_order": "6",
             "block_custom_class": ""
           }
         },
@@ -141,7 +141,7 @@
             "link": "",
             "width": "50%",
             "alignment": "center",
-            "mobile_order": "",
+            "mobile_order": "8",
             "block_custom_class": ""
           }
         },
@@ -165,7 +165,7 @@
             "button_link": "",
             "button_style": "sf__btn-primary",
             "button_color": "sf__btn-black",
-            "mobile_order": "",
+            "mobile_order": "7",
             "block_custom_class": ""
           }
         },
@@ -189,7 +189,7 @@
             "button_link": "",
             "button_style": "sf__btn-primary",
             "button_color": "sf__btn-black",
-            "mobile_order": "",
+            "mobile_order": "9",
             "block_custom_class": ""
           }
         },
@@ -200,7 +200,7 @@
             "link": "",
             "width": "50%",
             "alignment": "center",
-            "mobile_order": "",
+            "mobile_order": "10",
             "block_custom_class": ""
           }
         }

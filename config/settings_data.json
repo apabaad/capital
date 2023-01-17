@@ -42,15 +42,16 @@
     "animate_images_style": "zoom-fade",
     "animate_buttons": true,
     "animate_underlines": true,
+    "product_save_amount": false,
     "product_hover_image": false,
     "quick_shop_enable": false,
     "cart_type": "drawer",
-    "cart_notes_enable": true,
+    "cart_notes_enable": false,
     "cart_terms_conditions_enable": true,
-    "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-    "social_twitter_link": "https:\/\/instagram.com\/shopify",
-    "social_pinterest_link": "https:\/\/instagram.com\/shopify",
-    "social_instagram_link": "https:\/\/instagram.com\/shopify",
+    "social_facebook_link": "",
+    "social_twitter_link": "",
+    "social_pinterest_link": "",
+    "social_instagram_link": "",
     "favicon": "shopify:\/\/shop_images\/Capital.png",
     "checkout_header_image": "",
     "checkout_logo_image": "",
@@ -80,17 +81,17 @@
             "settings": {
               "menu_item": "Products",
               "promo_image_1": "shopify:\/\/shop_images\/Capital-PRECISION-free-wine-fridge-promo-web-Mar2022.jpg",
-              "promo_heading_1": "Precision Promotion",
+              "promo_heading_1": "Promotions",
               "promo_text_1": "",
               "promo_url_1": "shopify:\/\/pages\/promotions-media",
-              "promo_image_2": "shopify:\/\/shop_images\/Capital-PROGRILL-free-wine-fridge-promo-web-Mar2022.jpg",
-              "promo_heading_2": "Progrill Promotion",
+              "promo_image_2": "shopify:\/\/shop_images\/psq52.jpg",
+              "promo_heading_2": "Brochure",
               "promo_text_2": "",
-              "promo_url_2": "shopify:\/\/pages\/promotions-media",
+              "promo_url_2": "https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital_BBQ_Brochure_June_2022.pdf?v=1671662805",
               "promo_image_3": "shopify:\/\/shop_images\/psq52.jpg",
-              "promo_heading_3": "Brochure",
+              "promo_heading_3": "Pricelist",
               "promo_text_3": "",
-              "promo_url_3": ""
+              "promo_url_3": "https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/2308\/9281\/files\/Capital_Price_List_-_Feb_2023.pdf?v=1671593509"
             }
           },
           "1f7e8b90-9d33-4a5a-aab1-35c562fcb0d0": {
@@ -110,11 +111,28 @@
               "promo_text_3": "",
               "promo_url_3": ""
             }
+          },
+          "f8201c78-3846-4111-bb04-4e09eb5bb060": {
+            "type": "megamenu",
+            "disabled": true,
+            "settings": {
+              "menu_item": "Downloads",
+              "promo_heading_1": "",
+              "promo_text_1": "",
+              "promo_url_1": "shopify:\/\/pages\/downloads",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": "",
+              "promo_heading_3": "",
+              "promo_text_3": "",
+              "promo_url_3": ""
+            }
           }
         },
         "block_order": [
           "9e5d3dbc-b7c5-4600-83f5-3cb33088d990",
-          "1f7e8b90-9d33-4a5a-aab1-35c562fcb0d0"
+          "1f7e8b90-9d33-4a5a-aab1-35c562fcb0d0",
+          "f8201c78-3846-4111-bb04-4e09eb5bb060"
         ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/Capital.png",
@@ -170,11 +188,11 @@
               "container_width": 20
             }
           },
-          "1494292485313": {
+          "0bf895fc-4139-4c54-ac5b-a86c35d9a607": {
             "type": "menu",
             "settings": {
               "show_footer_title": true,
-              "menu": "main-menu",
+              "menu": "footer",
               "container_width": 20
             }
           },
@@ -190,7 +208,7 @@
             "type": "menu",
             "settings": {
               "show_footer_title": true,
-              "menu": "footer",
+              "menu": "legal",
               "container_width": 20
             }
           },
@@ -201,14 +219,25 @@
               "menu": "footer-menu",
               "container_width": 20
             }
+          },
+          "234fb030-f3e5-41e9-af3d-0fc5f2eb536d": {
+            "type": "newsletter",
+            "disabled": true,
+            "settings": {
+              "show_footer_title": true,
+              "title": "Sign up and save",
+              "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+              "container_width": 20
+            }
           }
         },
         "block_order": [
           "1494292481350",
-          "1494292485313",
+          "0bf895fc-4139-4c54-ac5b-a86c35d9a607",
           "9ca7b3eb-4b95-4173-8a2d-571a82da0620",
           "1494301487049",
-          "71f40479-b2de-47aa-910b-d9f906e3657d"
+          "71f40479-b2de-47aa-910b-d9f906e3657d",
+          "234fb030-f3e5-41e9-af3d-0fc5f2eb536d"
         ],
         "settings": {
           "show_locale_selector": true,
@@ -278,6 +307,12 @@
     "blocks": {
       "6279071938380501511": {
         "type": "shopify:\/\/apps\/powerful-contact-form-builder\/blocks\/app-embed\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "2530237624131658027": {
+        "type": "shopify:\/\/apps\/shipzip-shipping-rates\/blocks\/cs-app-block\/1a3d1068-6186-4cb9-936d-3cbb65a9de24",
         "disabled": false,
         "settings": {
         }

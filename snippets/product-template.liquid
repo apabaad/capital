@@ -164,7 +164,7 @@
 
                     <div class="capital-product-pdfs">
                       {% if product.metafields.custom.specification_sheet != blank %}
-                        <a class="sf__btn bottom-0  js-no-transition mt-4" style="background:white; color:black; cursor:pointer; margin:0 5px;" href="{{product.metafields.custom.user_manual | file_url }}" target="_blank">
+                        <a class="sf__btn bottom-0  js-no-transition mt-4" style="background:white; color:black; cursor:pointer; margin:0 5px;" href="{{product.metafields.custom.specification_sheet | file_url }}" target="_blank">
                       Specification Sheet 
                     </a>
                   {% endif %}

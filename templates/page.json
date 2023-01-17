@@ -38,7 +38,7 @@
             "text_padding_bottom": 40,
             "title": "PRECISION GRILL SERIES",
             "subheading": "",
-            "text": "<p>Capital BBQs are designed to complete the look of your outdoor kitchen design as well as give you outstanding cooking results.<\/p>",
+            "text": "<p>Precision<strong> <\/strong>series is the epitome of grilling royalty. Boasting one of the highest power burners in the market,<strong> <\/strong>Capital Precision grills are built for the grilling master. Sear the perfect prawn over the infared power zone, and with such precision you can also gently smoke bacon using the optional smoker box. Sure to impress, the Precision BBQ is built to last.<\/p>",
             "width": "50%",
             "inner_width": 500,
             "alignment": "center",
@@ -71,7 +71,7 @@
         "template--14469685608577__7d3bb188-aa77-477f-bbcb-dd1da5be40e7-1671418662024ff9be-1"
       ],
       "settings": {
-        "heading": "OUR PRODUCTS",
+        "heading": "CAPITAL GRILLS",
         "subheading": "",
         "description": "",
         "header_alignment": "center",
@@ -89,7 +89,7 @@
         "template--14469685608577__37303f67-5294-4324-af48-ccb66cf924a8-1671418662024ff9be-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fINELY_CRAFTED_lUXURY.jpg",
+            "image": "shopify:\/\/shop_images\/Scene-2_Resize.jpg",
             "link": "shopify:\/\/collections\/precision-series-grills",
             "width": "50%",
             "alignment": "center",
@@ -105,7 +105,7 @@
             "text_padding_bottom": 40,
             "title": "PROGRILL SERIES",
             "subheading": "",
-            "text": "<p>Capital BBQs are designed to complete the look of your outdoor kitchen design as well as give you outstanding cooking results.<\/p>",
+            "text": "<p>The ProGrill Range, designed for gathering friends & family around the BBQ. With easy clean stainless grills, Infrared rotisserie, high-grade stainless construction and high power burners you will never stew a steak again!<\/p>",
             "width": "50%",
             "inner_width": 500,
             "alignment": "center",

@@ -6,25 +6,146 @@
       "settings": {
       }
     },
-    "b85f57a4-eaa1-43e8-a37a-3105afb833ff": {
-      "type": "background-image-text",
+    "f34e5ea4-d5fc-4a14-822b-936a4cf6cfc1": {
+      "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "template--14475268259969__f34e5ea4-d5fc-4a14-822b-936a4cf6cfc1-1673916495296d82d3-0": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "template--14475268259969__f34e5ea4-d5fc-4a14-822b-936a4cf6cfc1-1673916495296d82d3-1": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14475268259969__f34e5ea4-d5fc-4a14-822b-936a4cf6cfc1-1673916495296d82d3-0",
+        "template--14475268259969__f34e5ea4-d5fc-4a14-822b-936a4cf6cfc1-1673916495296d82d3-1"
+      ],
       "settings": {
-        "subtitle": "INSTALLATION",
-        "title": "Coming Soon...",
+        "title": "FAQs"
+      }
+    },
+    "16043479-00f6-4b08-acfa-3ef005aae3b7": {
+      "type": "collection-page-banner",
+      "settings": {
+        "container": "container",
+        "layout": "inside",
+        "header_height": "adapt",
+        "content_width": "small",
+        "banner-text": "Outdoor Installation FAQ",
+        "text_alignment": "left",
+        "horizontal_alignment": "start",
+        "vertical_alignment": "center",
+        "text_color": "white",
+        "bg_color": "#f5f1ed",
+        "bg_image": "shopify:\/\/shop_images\/32_Built_In_Open_Grill_BBQ_with_Solid_Flat_Plate.png",
+        "overlay_color": "",
+        "overlay_opacity": 0.5,
+        "enable_parallax": false,
+        "upper_title": false,
+        "show_desc": false,
+        "collection_all_desc": ""
+      }
+    },
+    "3207566c-4849-4141-9e34-8d2d554cfdca": {
+      "type": "capital-faq",
+      "blocks": {
+        "template--14475268259969__3207566c-4849-4141-9e34-8d2d554cfdca-1673916782a6d0cf0d-0": {
+          "type": "question",
+          "settings": {
+            "title": "What is Lorem Ipsum",
+            "text": "<p>Laboris consectetur consequat aute fugiat. Magna id id mollit sunt mollit consectetur labore. Enim ipsum quis do aute dolor culpa. Labore esse elit consequat cillum fugiat. Nisi labore fugiat adipisicing pariatur eu laboris sint voluptate sit Lorem tempor enim.<\/p><p><\/p>",
+            "text2": "<p>Amet labore reprehenderit nulla aliquip ex. Reprehenderit mollit est aliqua sint sint culpa voluptate dolore. Esse cillum sunt duis amet reprehenderit eu incididunt. <\/p>",
+            "faq-date": "Wed January 23 2023",
+            "capital-faq-id": ""
+          }
+        },
+        "f64cb1d5-3e11-4c08-8dbb-7840f23e80ac": {
+          "type": "question",
+          "settings": {
+            "title": "How to question Lorem Ipsum 1",
+            "text": "<p>Laboris consectetur consequat aute fugiat. Magna id id mollit sunt mollit consectetur labore. Enim ipsum quis do aute dolor culpa. Labore esse elit consequat cillum fugiat. Nisi labore fugiat adipisicing pariatur eu laboris sint voluptate sit Lorem tempor enim.<\/p><p><\/p>",
+            "text2": "<p>Amet labore reprehenderit nulla aliquip ex. Reprehenderit mollit est aliqua sint sint culpa voluptate dolore. Esse cillum sunt duis amet reprehenderit eu incididunt. <\/p>",
+            "faq-date": "Wed January 23 2023",
+            "capital-faq-id": ""
+          }
+        },
+        "fed5d201-cf42-4f1d-9472-1e08c44dedd3": {
+          "type": "question",
+          "settings": {
+            "title": "Where is Lorem Ipsum 1",
+            "text": "<p>Laboris consectetur consequat aute fugiat. Magna id id mollit sunt mollit consectetur labore. Enim ipsum quis do aute dolor culpa. Labore esse elit consequat cillum fugiat. Nisi labore fugiat adipisicing pariatur eu laboris sint voluptate sit Lorem tempor enim.<\/p><p><\/p>",
+            "text2": "<p>Amet labore reprehenderit nulla aliquip ex. Reprehenderit mollit est aliqua sint sint culpa voluptate dolore. Esse cillum sunt duis amet reprehenderit eu incididunt. <\/p>",
+            "faq-date": "Wed January 23 2023",
+            "capital-faq-id": ""
+          }
+        },
+        "bbf75b47-c531-4ee1-9f0b-7be74e6e491b": {
+          "type": "question",
+          "settings": {
+            "title": "Question Lorem Ipsum 1",
+            "text": "<p>Laboris consectetur consequat aute fugiat. Magna id id mollit sunt mollit consectetur labore. Enim ipsum quis do aute dolor culpa. Labore esse elit consequat cillum fugiat. Nisi labore fugiat adipisicing pariatur eu laboris sint voluptate sit Lorem tempor enim.<\/p><p><\/p>",
+            "text2": "<p>Amet labore reprehenderit nulla aliquip ex. Reprehenderit mollit est aliqua sint sint culpa voluptate dolore. Esse cillum sunt duis amet reprehenderit eu incididunt. <\/p>",
+            "faq-date": "Wed January 23 2023",
+            "capital-faq-id": ""
+          }
+        },
+        "94abcb1d-cecf-450e-8d6f-c4dd5b1fa002": {
+          "type": "question",
+          "settings": {
+            "title": "Question Lorem Ipsum 1",
+            "text": "<p>Laboris consectetur consequat aute fugiat. Magna id id mollit sunt mollit consectetur labore. Enim ipsum quis do aute dolor culpa. Labore esse elit consequat cillum fugiat. Nisi labore fugiat adipisicing pariatur eu laboris sint voluptate sit Lorem tempor enim.<\/p><p><\/p>",
+            "text2": "<p>Amet labore reprehenderit nulla aliquip ex. Reprehenderit mollit est aliqua sint sint culpa voluptate dolore. Esse cillum sunt duis amet reprehenderit eu incididunt. <\/p>",
+            "faq-date": "Wed January 23 2023",
+            "capital-faq-id": ""
+          }
+        },
+        "template--14475268259969__3207566c-4849-4141-9e34-8d2d554cfdca-1673916782a6d0cf0d-1": {
+          "type": "question",
+          "settings": {
+            "title": "Question Lorem Ipsum 2",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text2": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "faq-date": "",
+            "capital-faq-id": "last-faq-id"
+          }
+        }
+      },
+      "block_order": [
+        "template--14475268259969__3207566c-4849-4141-9e34-8d2d554cfdca-1673916782a6d0cf0d-0",
+        "f64cb1d5-3e11-4c08-8dbb-7840f23e80ac",
+        "fed5d201-cf42-4f1d-9472-1e08c44dedd3",
+        "bbf75b47-c531-4ee1-9f0b-7be74e6e491b",
+        "94abcb1d-cecf-450e-8d6f-c4dd5b1fa002",
+        "template--14475268259969__3207566c-4849-4141-9e34-8d2d554cfdca-1673916782a6d0cf0d-1"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "525bd4d0-f05f-4e74-b387-d4da1385fd7a": {
+      "type": "capital-faq-contact-form",
+      "settings": {
+        "title": "Ask a question",
         "text": "",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/Steel_Meat_1900x550_1eef5279-bc3e-4e2d-8de2-7e1cbe2e7412.jpg",
-        "focal_point": "80% 50%",
-        "layout": "left",
-        "height": 750,
-        "parallax": false,
-        "parallax_direction": "top"
+        "show_phone": false,
+        "narrow_column": true
       }
     }
   },
   "order": [
     "main",
-    "b85f57a4-eaa1-43e8-a37a-3105afb833ff"
+    "f34e5ea4-d5fc-4a14-822b-936a4cf6cfc1",
+    "16043479-00f6-4b08-acfa-3ef005aae3b7",
+    "3207566c-4849-4141-9e34-8d2d554cfdca",
+    "525bd4d0-f05f-4e74-b387-d4da1385fd7a"
   ]
 }
